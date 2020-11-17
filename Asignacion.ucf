@@ -1,0 +1,28 @@
+Net "clk" loc = E7; 
+Net "M"   loc = L1;
+Net "reset" loc = J3;
+Net "Mux" loc = N2;
+
+Net "Q[3]" loc = C11;
+Net "Q[2]" loc = A13;
+Net "Q[1]" loc = C14;
+Net "Q[0]" loc = E14;
+
+NET "SEGMENTOS[0]" LOC = K13; 
+NET "SEGMENTOS[1]" LOC = L15; 
+NET "SEGMENTOS[2]" LOC = M15; 
+NET "SEGMENTOS[3]" LOC = P15; 
+NET "SEGMENTOS[4]" LOC = P14; 
+NET "SEGMENTOS[5]" LOC = K15; 
+NET "SEGMENTOS[6]" LOC = L14; 
+NET "SEGMENTOS[7]" LOC = N15; 
+
+NET "habilitacion[7]" LOC = G12;#
+NET "habilitacion[6]" LOC = F13;#
+NET "habilitacion[5]" LOC = H12;#
+NET "habilitacion[4]" LOC = G13;#
+NET "habilitacion[3]" LOC = H13;#
+NET "habilitacion[2]" LOC = K11;#
+NET "habilitacion[1]" LOC = J13;#
+NET "habilitacion[0]" LOC = K12;#
+
